@@ -1,0 +1,3 @@
+Admin menüsü değiştirildi.
+Paket performansı için bir kaç scriptte düzenleme yapıldı.
+Yeni meslekler eklendi.
