@@ -1,3 +1,4 @@
-Admin menüsü değiştirildi.
-Paket performansı için bir kaç scriptte düzenleme yapıldı.
-Yeni meslekler eklendi.
+Elektrikci meslegi eklendi
+700+ satılabilir ev eklendi
+Gereksiz meslekler kaldırıldı
+Hata düzeltmeleri...
