@@ -1,4 +1,5 @@
-Elektrikci meslegi eklendi
-700+ satılabilir ev eklendi
-Gereksiz meslekler kaldırıldı
-Hata düzeltmeleri...
+Yeni chat sistemi eklendi ve me & do komutu değiştirildi. (Maske varsa anonim yazar)
+PD MDT sistemi basit bir sisteme geçirildi.
+Bütün patron menüler değiştirildi.
+
+Ve bug fixler...
