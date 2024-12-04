@@ -1,5 +1,6 @@
-Yeni chat sistemi eklendi ve me & do komutu değiştirildi. (Maske varsa anonim yazar)
-PD MDT sistemi basit bir sisteme geçirildi.
-Bütün patron menüler değiştirildi.
+ox-inventory sistemine geçiş yapıldı.
+Fatura sistemi değiştirildi (Fatura kes dedikten sonra kişinin üzerine e basıp kesilmekte).
 
-Ve bug fixler...
+Bazı mekanların sesleri nereye gidersen git takılı kalıyordu, düzeltildi.
+Çöpçülük ve avcılıkta bazen menülerin açılmama sorunu düzeltildi.
+PD mesleğinde F3 menüde araç kilidini kır özelliği çalışmıyordu düzeltildi.
